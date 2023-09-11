@@ -6,7 +6,7 @@ Comecei aprendendo Python com intenção de trazer algumações soluções para 
 - 😄 Pronouns: ele/dele
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-![snake animation](https://github.com/<DigFontes>/<DigFontes>/blob/output/github-contribution-grid-snake2.svg)
+
 ## Encontre-me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-fontes-064187164/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DigFontes)
