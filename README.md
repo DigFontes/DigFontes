@@ -11,12 +11,7 @@ Comecei aprendendo Python com intenção de trazer algumações soluções para 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 
 ## Encontre-me
-<div>
-<a href="https://github.com/DigFontes">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigFontes&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DigFontes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-     
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-fontes-064187164/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DigFontes)
 
@@ -24,6 +19,12 @@ Comecei aprendendo Python com intenção de trazer algumações soluções para 
 
 ![DigFontes's GitHub stats](https://github-readme-stats.vercel.app/api?username=DigFontes&show_icons=true&theme=gruvbox)
 ![DigFontes's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DigFontes&theme=blue-green)
+
+<div>
+<a href="https://github.com/DigFontes">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigFontes&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DigFontes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ## Linguagens de Programação
 <div style="display: inline_block"><br/>
