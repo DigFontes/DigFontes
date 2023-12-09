@@ -23,3 +23,4 @@ Comecei aprendendo Python com intenção de trazer algumações soluções para 
   <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Power BI-E59D23?style=for-the-badge&logo=powerbi&logoColor=white"/>
 </div>
+## IDE mais usados
