@@ -15,7 +15,7 @@ Comecei aprendendo Python com intenção de trazer algumações soluções para 
 
 ## Minhas Estastísticas
 ![DigFontes's GitHub stats](https://github-readme-stats.vercel.app/api?username=DigFontes&show_icons=true&theme=gruvbox)
-![DigFontes's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={DigFontes}&theme=blue-green)
+![DigFontes's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DigFontes&theme=blue-green)
 
 ## Tecnologias que estou aprendendo
 <div style="display: inline_block"><br/>
