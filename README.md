@@ -23,7 +23,8 @@ Comecei aprendendo Python com intenção de trazer algumações soluções para 
   <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Power BI-E59D23?style=for-the-badge&logo=powerbi&logoColor=white"/>
 </div>
+
 ## IDE mais usados
 
-![GOGLE COLAB](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![PYCHARM](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) , ![GOGLE COLAB](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) , ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
