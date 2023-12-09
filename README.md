@@ -24,5 +24,6 @@ Comecei aprendendo Python com intenção de trazer algumações soluções para 
   <img align="center" alt="html5" src="https://img.shields.io/badge/Power BI-E59D23?style=for-the-badge&logo=powerbi&logoColor=white"/>
 </div>
 ## IDE mais usados
+
 ![GOGLE COLAB](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
