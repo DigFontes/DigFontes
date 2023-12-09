@@ -17,13 +17,10 @@ Comecei aprendendo Python com intenção de trazer algumações soluções para 
 
 ## Minhas Estastísticas
 
-![DigFontes's GitHub stats](https://github-readme-stats.vercel.app/api?username=DigFontes&show_icons=true&theme=gruvbox)
-![DigFontes's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DigFontes&theme=blue-green)
-
 <div>
 <a href="https://github.com/DigFontes">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigFontes&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DigFontes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigFontes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## Linguagens de Programação
