@@ -1,4 +1,5 @@
 ### Hi there,  Diêgo Fontes! Isso mesmo, e com ^ 😂!
+
 Comecei aprendendo Python com intenção de trazer algumações soluções para empresa que trabalhava na época, me apaixonei por programação. Entretando quando cheguei no módulo de Python aplicado para Análide de Dados, nesse momento, deu match total. Estou envolvido nessa jornada!
 - 🔭 Hoje trabalho com Comércio Exterior e comecei a desenvolver soluções tecnológicas para empresa que trabalho.
 - 🌱 Estudo:
@@ -10,10 +11,12 @@ Comecei aprendendo Python com intenção de trazer algumações soluções para 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 
 ## Encontre-me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-fontes-064187164/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DigFontes)
 
 ## Minhas Estastísticas
+
 ![DigFontes's GitHub stats](https://github-readme-stats.vercel.app/api?username=DigFontes&show_icons=true&theme=gruvbox)
 ![DigFontes's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DigFontes&theme=blue-green)
 
