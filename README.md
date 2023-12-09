@@ -17,7 +17,7 @@ Comecei aprendendo Python com intenção de trazer algumações soluções para 
 ![DigFontes's GitHub stats](https://github-readme-stats.vercel.app/api?username=DigFontes&show_icons=true&theme=gruvbox)
 ![DigFontes's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DigFontes&theme=blue-green)
 
-## Tecnologias que estou aprendendo
+## Linguagens de Programação
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
