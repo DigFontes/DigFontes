@@ -38,4 +38,4 @@ Comecei aprendendo Python com intenção de trazer algumações soluções para 
 
 ## Ferramentas/ Tools/ Habilidades
 
-![POWERBI](https://img.shields.io/badge/PowerBI-E59D23?style=for-the-badge&logo=powerbi&logoColor=white) ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+![POWERBI](https://img.shields.io/badge/PowerBI-E59D23?style=for-the-badge&logo=powerbi&logoColor=white)  ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
