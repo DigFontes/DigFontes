@@ -2,9 +2,12 @@
 
 Comecei aprendendo Python com intenção de trazer algumações soluções para empresa que trabalhava na época, me apaixonei por programação. Entretando quando cheguei no módulo de Python aplicado para Análide de Dados, nesse momento, deu match total. Estou envolvido nessa jornada!
 - 🔭 Hoje trabalho com Comércio Exterior e comecei a desenvolver soluções tecnológicas para empresa que trabalho.
-- 🌱 Estudo:
-     ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Power BI](https://img.shields.io/badge/PowerBI-E59D23?style=for-the-badge&logo=powerbi&logoColor=white)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  
+
+### Trabalho 👨‍💻 e estudos 📚 as tecnólogias 💻:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Power BI](https://img.shields.io/badge/PowerBI-E59D23?style=for-the-badge&logo=powerbi&logoColor=white)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## Contate-me nos 📫  
 - ![DigFontes's GitHub stats](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  diegopibb@gmail.com ou diegodevfontes@gmail.com
 - 😄 Pronouns: ele/dele
 
