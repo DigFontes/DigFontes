@@ -50,7 +50,7 @@ Comecei aprendendo Python com intenção de trazer algumações soluções para 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
 ## IDE mais usados
-![JUPYTER NOTEBOOK](https://img.shields.io/badge/Jupyter-F9AB00?style=for-the-badge&logo=Jupyter&color=525252) ![PYCHARM](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)  ![GOGLE COLAB](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)  ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![JUPYTER NOTEBOOK](https://img.shields.io/badge/Jupyter-F9AB00?style=for-the-badge&logo=Jupyter&color=525252) ![PYCHARM](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)  ![GOGLE COLAB](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)  ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![INTELLIJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-0058CC.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) 
 
 ## Ferramentas/ Tools/ Habilidades
 ![POWERBI](https://img.shields.io/badge/PowerBI-E59D23?style=for-the-badge&logo=powerbi&logoColor=white)  ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
