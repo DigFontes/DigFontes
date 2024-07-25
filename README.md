@@ -1,5 +1,6 @@
 ### Hi there,  Diêgo Fontes! Isso mesmo, e com ^ 😂!
 😄 Pronouns: ele/dele
+
 Comecei aprendendo Python com intenção de trazer algumações soluções para empresa que trabalhava na época, me apaixonei por programação. Entretando quando cheguei no módulo de Python aplicado para Análide de Dados, nesse momento, deu match total. Estou envolvido nessa jornada!
 - 🔭 Hoje trabalho com Comércio Exterior e comecei a desenvolver soluções tecnológicas para empresa que trabalho.
 
