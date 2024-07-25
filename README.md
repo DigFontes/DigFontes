@@ -1,5 +1,5 @@
 ### Hi there,  Diêgo Fontes! Isso mesmo, e com ^ 😂!
-
+😄 Pronouns: ele/dele
 Comecei aprendendo Python com intenção de trazer algumações soluções para empresa que trabalhava na época, me apaixonei por programação. Entretando quando cheguei no módulo de Python aplicado para Análide de Dados, nesse momento, deu match total. Estou envolvido nessa jornada!
 - 🔭 Hoje trabalho com Comércio Exterior e comecei a desenvolver soluções tecnológicas para empresa que trabalho.
 
@@ -9,7 +9,7 @@ Comecei aprendendo Python com intenção de trazer algumações soluções para 
 
 ## Contate-me nos 📫  
 [![DigFontes's GitHub stats](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegopibb@gmail.com)  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:diegodevfontes@gmail.com)
-😄 Pronouns: ele/dele
+
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 
